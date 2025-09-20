@@ -6,7 +6,7 @@ public class Mahasiswa {
         System.out.println("PBO");
     }
     
-    public String mengerjakanTugas(){
-        return "mahasiswa mengerjakan tugas";
+    public String mengerjakanLaprak(){
+        return "mahasiswa mengerjakan laprak";
     }
 }
