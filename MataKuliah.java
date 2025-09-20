@@ -24,4 +24,4 @@ public class MataKuliah {
         MataKuliah mk = new MataKuliah("B01", "PBO", 3, "Ardi");
         mk.tampilkanInfo();
     }
-}
+} 
