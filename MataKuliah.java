@@ -21,7 +21,7 @@ public class MataKuliah {
     }
 
     public static void main(String[] args) {
-        MataKuliah mk = new MataKuliah("B01", "PBO", 3, "Ardi");
+        MataKuliah mk = new MataKuliah("B01", "PBO", 3, "Denis");
         mk.tampilkanInfo();
     }
 } 
